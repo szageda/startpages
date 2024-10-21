@@ -36,7 +36,7 @@ The same as Minimal, but the website categories are no longer hidden and instead
 
 ![Terminal startpage screenshot](terminal/Screenshot.png)
 
-This start page aims to imitate the command-line terminals of Linux distributions – as if you were actually typing into a terminal window. One day I might make it, so that the user will be able to drag the window around. It comes with an interactive search bar, time and date indicators.
+This start page aims to imitate the command-line terminals of Linux distributions – as if you were actually typing into a terminal window. It comes with an interactive search bar, time and date indicators.
 
 ### Zen
 
